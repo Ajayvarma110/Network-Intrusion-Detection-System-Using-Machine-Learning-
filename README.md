@@ -15,9 +15,11 @@ Clone the repository:
 
 git clone https://github.com/22KarthikV/Network-Intrusion-Detection-System-Using-Machine-Learning.git
 cd Network-Intrusion-Detection-System-Using-Machine-Learning
+
 Install dependencies:
 
 pip install -r requirements.txt
+
 Explore the notebooks:
 
 Use Jupyter notebooks in notebooks/ to explore the dataset, preprocess data, train models, and evaluate performance.
